@@ -97,6 +97,7 @@ freewheel.tv, 536359-r-523319, RESELLER
 # Adagio - Adform
 adform.com, 3354, RESELLER, 9f5210a2f0999e32
 #endadagio
+
 #startMintegral
 mintegral.com, 48018, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
